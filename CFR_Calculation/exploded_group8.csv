@@ -1,0 +1,166 @@
+,Disease,Transmission_Medium,Host_for_Parasite,Pathogens,Host_for_Parasite.1,Source,Vaccination,Maximum_Incubation,cfr,Cases,Death
+0,Acute haemorrhagic fever syndrome,person to person blood bodily fluids,not specific,Virus,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome,person to person blood bodily fluids,not specific,Virus,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome,person to person blood bodily fluids,not specific, Bacteria,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome,person to person blood bodily fluids,not specific, Bacteria,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, person to person cough sneeze aerosol,not specific,Virus,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, person to person cough sneeze aerosol,not specific,Virus,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, person to person cough sneeze aerosol,not specific, Bacteria,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, person to person cough sneeze aerosol,not specific, Bacteria,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome,  mosquito bite,not specific,Virus,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome,  mosquito bite,not specific,Virus,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome,  mosquito bite,not specific, Bacteria,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome,  mosquito bite,not specific, Bacteria,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, person to person stools of infected person,not specific,Virus,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, person to person stools of infected person,not specific,Virus,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, person to person stools of infected person,not specific, Bacteria,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, person to person stools of infected person,not specific, Bacteria,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, contaminated food,not specific,Virus,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, contaminated food,not specific,Virus,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, contaminated food,not specific, Bacteria,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, contaminated food,not specific, Bacteria,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, contaminated water,not specific,Virus,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, contaminated water,not specific,Virus,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, contaminated water,not specific, Bacteria,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, contaminated water,not specific, Bacteria,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, livestock animal blood body fluids,not specific,Virus,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, livestock animal blood body fluids,not specific,Virus,not specific, mosquito,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, livestock animal blood body fluids,not specific, Bacteria,not specific,zootonic,0,7,inf,113,266
+0,Acute haemorrhagic fever syndrome, livestock animal blood body fluids,not specific, Bacteria,not specific, mosquito,0,7,inf,113,266
+1,Acute neurological syndrome,person to person blood bodily fluids,not specific,Virus,not specific,zootonic,1,7,32.14285714,28,9
+1,Acute neurological syndrome,person to person blood bodily fluids,not specific,Virus,not specific, mosquito,1,7,32.14285714,28,9
+1,Acute neurological syndrome, person to person cough sneeze aerosol,not specific,Virus,not specific,zootonic,1,7,32.14285714,28,9
+1,Acute neurological syndrome, person to person cough sneeze aerosol,not specific,Virus,not specific, mosquito,1,7,32.14285714,28,9
+1,Acute neurological syndrome,  mosquito bite,not specific,Virus,not specific,zootonic,1,7,32.14285714,28,9
+1,Acute neurological syndrome,  mosquito bite,not specific,Virus,not specific, mosquito,1,7,32.14285714,28,9
+1,Acute neurological syndrome, person to person stools of infected person,not specific,Virus,not specific,zootonic,1,7,32.14285714,28,9
+1,Acute neurological syndrome, person to person stools of infected person,not specific,Virus,not specific, mosquito,1,7,32.14285714,28,9
+1,Acute neurological syndrome, contaminated food,not specific,Virus,not specific,zootonic,1,7,32.14285714,28,9
+1,Acute neurological syndrome, contaminated food,not specific,Virus,not specific, mosquito,1,7,32.14285714,28,9
+1,Acute neurological syndrome, contaminated water,not specific,Virus,not specific,zootonic,1,7,32.14285714,28,9
+1,Acute neurological syndrome, contaminated water,not specific,Virus,not specific, mosquito,1,7,32.14285714,28,9
+1,Acute neurological syndrome, livestock animal blood body fluids,not specific,Virus,not specific,zootonic,1,7,32.14285714,28,9
+1,Acute neurological syndrome, livestock animal blood body fluids,not specific,Virus,not specific, mosquito,1,7,32.14285714,28,9
+2,Acute respiratory syndrome,person to person cough sneeze aerosol,animal,Virus,"animal, livestock",zootonic,0,7,12.5,4000,500
+2,Acute respiratory syndrome,person to person cough sneeze aerosol, livestock,Virus,"animal, livestock",zootonic,0,7,12.5,4000,500
+3,Anthrax,contaminated food,livestock,Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+3,Anthrax,contaminated food, soil,Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+3,Anthrax,contaminated food, dust,Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+3,Anthrax, contaminated water,livestock,Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+3,Anthrax, contaminated water, soil,Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+3,Anthrax, contaminated water, dust,Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+3,Anthrax, contaminated animal products,livestock,Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+3,Anthrax, contaminated animal products, soil,Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+3,Anthrax, contaminated animal products, dust,Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+3,Anthrax, spores in the air,livestock,Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+3,Anthrax, spores in the air, soil,Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+3,Anthrax, spores in the air, dust,Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+4,Avian,person to person cough sneeze aerosol,birds,Virus,birds,birds,0,5,inf,1000,450000
+4,Avian, contaminated food,birds,Virus,birds,birds,0,5,inf,1000,450000
+4,Avian, contaminated water,birds,Virus,birds,birds,0,5,inf,1000,450000
+4,Avian, infected birds,birds,Virus,birds,birds,0,5,inf,1000,450000
+4,Avian, infected bird droppings,birds,Virus,birds,birds,0,5,inf,1000,450000
+4,Avian, infected bird meat,birds,Virus,birds,birds,0,5,inf,1000,450000
+5,COVID-19,person to person blood bodily fluids,non confirmed,Virus,non confirmed,zootonic,0,14,33.33333333,69176,6820
+5,COVID-19, person to person cough sneeze aerosol,non confirmed,Virus,non confirmed,zootonic,0,14,33.33333333,69176,6820
+5,COVID-19,  mosquito bite,non confirmed,Virus,non confirmed,zootonic,0,14,33.33333333,69176,6820
+5,COVID-19, person to person stools of infected person,non confirmed,Virus,non confirmed,zootonic,0,14,33.33333333,69176,6820
+5,COVID-19, contaminated food,non confirmed,Virus,non confirmed,zootonic,0,14,33.33333333,69176,6820
+5,COVID-19, contaminated water,non confirmed,Virus,non confirmed,zootonic,0,14,33.33333333,69176,6820
+5,COVID-19, livestock animal blood body fluids,non confirmed,Virus,non confirmed,zootonic,0,14,33.33333333,69176,6820
+6,Cholera,contaminated water,water,Bacteria,"water, stools, food",Human,0,5,inf,79613,3731
+6,Cholera,contaminated water, stools,Bacteria,"water, stools, food",Human,0,5,inf,79613,3731
+6,Cholera,contaminated water, food,Bacteria,"water, stools, food",Human,0,5,inf,79613,3731
+6,Cholera, contaminated food,water,Bacteria,"water, stools, food",Human,0,5,inf,79613,3731
+6,Cholera, contaminated food, stools,Bacteria,"water, stools, food",Human,0,5,inf,79613,3731
+6,Cholera, contaminated food, food,Bacteria,"water, stools, food",Human,0,5,inf,79613,3731
+6,Cholera, person to person stools of infected person,water,Bacteria,"water, stools, food",Human,0,5,inf,79613,3731
+6,Cholera, person to person stools of infected person, stools,Bacteria,"water, stools, food",Human,0,5,inf,79613,3731
+6,Cholera, person to person stools of infected person, food,Bacteria,"water, stools, food",Human,0,5,inf,79613,3731
+7,Crimean-Congo haemorrhagic fever,person to person blood bodily fluids,ticks,Virus,"ticks, livestock",zootonic,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever,person to person blood bodily fluids, livestock,Virus,"ticks, livestock",zootonic,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever,person to person blood bodily fluids,ticks,Virus,"ticks, livestock", ticks,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever,person to person blood bodily fluids, livestock,Virus,"ticks, livestock", ticks,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, tick bite,ticks,Virus,"ticks, livestock",zootonic,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, tick bite, livestock,Virus,"ticks, livestock",zootonic,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, tick bite,ticks,Virus,"ticks, livestock", ticks,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, tick bite, livestock,Virus,"ticks, livestock", ticks,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, infected livestock,ticks,Virus,"ticks, livestock",zootonic,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, infected livestock, livestock,Virus,"ticks, livestock",zootonic,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, infected livestock,ticks,Virus,"ticks, livestock", ticks,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, infected livestock, livestock,Virus,"ticks, livestock", ticks,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, livestock animal blood body fluids,ticks,Virus,"ticks, livestock",zootonic,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, livestock animal blood body fluids, livestock,Virus,"ticks, livestock",zootonic,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, livestock animal blood body fluids,ticks,Virus,"ticks, livestock", ticks,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, livestock animal blood body fluids, livestock,Virus,"ticks, livestock", ticks,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, contaminated animal products,ticks,Virus,"ticks, livestock",zootonic,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, contaminated animal products, livestock,Virus,"ticks, livestock",zootonic,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, contaminated animal products,ticks,Virus,"ticks, livestock", ticks,0,6,100.0,242,20
+7,Crimean-Congo haemorrhagic fever, contaminated animal products, livestock,Virus,"ticks, livestock", ticks,0,6,100.0,242,20
+8,Dengue,mosquito bite,mosquito,Virus,mosquito,mosquito,1,12,49.1862955,1000000,3075
+9,Diphtheria,person to person cough sneeze aerosol,human,Bacteria,human,human,1,10,0.07486631,804,15
+10,Ebola,person to person blood bodily fluids,fruit bats,Virus,fruit bats,zootonic,0,21,inf,3432,2253
+10,Ebola, person to person cough sneeze aerosol,fruit bats,Virus,fruit bats,zootonic,0,21,inf,3432,2253
+10,Ebola, person to person sexual contact,fruit bats,Virus,fruit bats,zootonic,0,21,inf,3432,2253
+11,Elizabethkingia,contaminated water,river,Bacteria,"river, soil, water bodies",water bodies,0,39,0.315789474,57,18
+11,Elizabethkingia,contaminated water, soil,Bacteria,"river, soil, water bodies",water bodies,0,39,0.315789474,57,18
+11,Elizabethkingia,contaminated water, water bodies,Bacteria,"river, soil, water bodies",water bodies,0,39,0.315789474,57,18
+12,Encephalitis,viral infection,various,Virus,various,various,1,12,90.28340081,772,223
+13,Enterovirus,person to person blood bodily fluids,human,Virus,human,human,1,10,20.29520295,4496,55
+13,Enterovirus, person to person stools of infected person,human,Virus,human,human,1,10,20.29520295,4496,55
+14,Haemorrhagic fever syndrome,mosquito bite,mosquito,Virus,"mosquito, ticks, livestock",zootonic,0,6,0.255863539,469,120
+14,Haemorrhagic fever syndrome,mosquito bite, ticks,Virus,"mosquito, ticks, livestock",zootonic,0,6,0.255863539,469,120
+14,Haemorrhagic fever syndrome,mosquito bite, livestock,Virus,"mosquito, ticks, livestock",zootonic,0,6,0.255863539,469,120
+14,Haemorrhagic fever syndrome, tick bite,mosquito,Virus,"mosquito, ticks, livestock",zootonic,0,6,0.255863539,469,120
+14,Haemorrhagic fever syndrome, tick bite, ticks,Virus,"mosquito, ticks, livestock",zootonic,0,6,0.255863539,469,120
+14,Haemorrhagic fever syndrome, tick bite, livestock,Virus,"mosquito, ticks, livestock",zootonic,0,6,0.255863539,469,120
+15,Haemorrhagic fever with renal syndrome,rodent contamination,rodents,Virus,rodents,rodents,0,21,0.013623978,367,5
+16,Hantavirus pulmonary syndrome,rodent contamination,rodents,Virus,rodents,rodents,0,21,25.0,8,2
+17,Hepatitis,person to person stools of infected person,human,Virus,human,human,1,45,0.577200577,6861,8
+17,Hepatitis, person to person blood bodily fluids,human,Virus,human,human,1,45,0.577200577,6861,8
+18,Influenza,person to person blood bodily fluids,human,Virus,human,human,1,2,83.04455446,1000,671
+18,Influenza, person to person cough sneeze aerosol,human,Virus,human,human,1,2,83.04455446,1000,671
+19,Lassa fever,rodent contamination,rodents,Virus,rodents,rodents,0,21,56.73076923,1422,149
+20,Legionellosis,contaminated water,river,Bacteria,"river, water bodies",water bodies,0,10,15.78947368,751,13
+20,Legionellosis,contaminated water, water bodies,Bacteria,"river, water bodies",water bodies,0,10,15.78947368,751,13
+20,Legionellosis, water bodies,river,Bacteria,"river, water bodies",water bodies,0,10,15.78947368,751,13
+20,Legionellosis, water bodies, water bodies,Bacteria,"river, water bodies",water bodies,0,10,15.78947368,751,13
+21,Listeriosis,contaminated food,raw meat,Bacteria,"raw meat, smoked fish",raw meats,0,30,0.078947368,38,3
+21,Listeriosis,contaminated food, smoked fish,Bacteria,"raw meat, smoked fish",raw meats,0,30,0.078947368,38,3
+22,MERS-CoV,camels to humans,camel,Virus,camel,zootonic,0,10,66.0,3000,862
+23,Malaria,mosquito bite,mosquito,Parasite,mosquito,mosquito,1,15,0.453333333,75,34
+24,Marburg haemorrhagic fever,person to person blood bodily fluids,bats,Virus,"bats, human",bats,0,21,inf,423,357
+24,Marburg haemorrhagic fever,person to person blood bodily fluids, human,Virus,"bats, human",bats,0,21,inf,423,357
+24,Marburg haemorrhagic fever, contact with surfaces contaminated by infected bats,bats,Virus,"bats, human",bats,0,21,inf,423,357
+24,Marburg haemorrhagic fever, contact with surfaces contaminated by infected bats, human,Virus,"bats, human",bats,0,21,inf,423,357
+25,Measles,person to person blood bodily fluids,human,Virus,human,human,1,12,0.609375,7449,537
+25,Measles, person to person cough sneeze aerosol,human,Virus,human,human,1,12,0.609375,7449,537
+26,Meningococcal disease,person to person cough sneeze aerosol,human,Bacteria,human,human,1,10,76.14991482,1000000,20000
+27,Microcephaly,mosquito bite,mosquito,Virus,mosquito,zootonic,0,10,1.197227473,3174,38
+27,Microcephaly, others,mosquito,Virus,mosquito,zootonic,0,10,1.197227473,3174,38
+28,Monkeypox,animal to human,mammals,Virus,mammals,zootonic,0,15,8.860759494,511,7
+29,Myocarditis,viral infection,not specific,Virus,not specific,not specific,0,10,23.00884956,113,26
+29,Myocarditis,viral infection,not specific, Bacteria,not specific,not specific,0,10,23.00884956,113,26
+30,Nipah virus,person to person blood bodily fluids,pigs,Virus,"pigs, livestock",zootonic,0,14,42.5,753,18
+30,Nipah virus,person to person blood bodily fluids, livestock,Virus,"pigs, livestock",zootonic,0,14,42.5,753,18
+30,Nipah virus, person to person cough sneeze aerosol,pigs,Virus,"pigs, livestock",zootonic,0,14,42.5,753,18
+30,Nipah virus, person to person cough sneeze aerosol, livestock,Virus,"pigs, livestock",zootonic,0,14,42.5,753,18
+30,Nipah virus, contact with equipment used in patient care,pigs,Virus,"pigs, livestock",zootonic,0,14,42.5,753,18
+30,Nipah virus, contact with equipment used in patient care, livestock,Virus,"pigs, livestock",zootonic,0,14,42.5,753,18
+31,Plague,person to person cough sneeze aerosol,fleas,Bacteria,"fleas, small mammals",fleas,0,6,41.93548387,7000,202
+31,Plague,person to person cough sneeze aerosol, small mammals,Bacteria,"fleas, small mammals",fleas,0,6,41.93548387,7000,202
+31,Plague,person to person cough sneeze aerosol,fleas,Bacteria,"fleas, small mammals", small mammals,0,6,41.93548387,7000,202
+31,Plague,person to person cough sneeze aerosol, small mammals,Bacteria,"fleas, small mammals", small mammals,0,6,41.93548387,7000,202
+31,Plague, bite of infected fleas,fleas,Bacteria,"fleas, small mammals",fleas,0,6,41.93548387,7000,202
+31,Plague, bite of infected fleas, small mammals,Bacteria,"fleas, small mammals",fleas,0,6,41.93548387,7000,202
+31,Plague, bite of infected fleas,fleas,Bacteria,"fleas, small mammals", small mammals,0,6,41.93548387,7000,202
+31,Plague, bite of infected fleas, small mammals,Bacteria,"fleas, small mammals", small mammals,0,6,41.93548387,7000,202
+32,Polio,person to person,human,Virus,human,human,1,21,6.202723147,90000,41
+33,Rift Valley fever,mosquito bite,mosquito,Virus,mosquito,zootonic,0,6,100.0,20000,300
+34,SARS,person to person cough sneeze aerosol,animal,Virus,"animal, livestock",zootonic,0,7,100.0,8221,774
+34,SARS,person to person cough sneeze aerosol, livestock,Virus,"animal, livestock",zootonic,0,7,100.0,8221,774
+35,Seoul virus,rodent contamination,rodents,Virus,rodents,rodents,0,42,0.181818182,11,2
+36,Typhoid fever,person to person cough sneeze aerosol,human,Bacteria,human,zootonic,0,14,19.25287356,910,134
+37,Viral haemorrhagic fever,mosquito bite,mosquito,Virus,mosquito,zootonic,0,6,inf,93,63
+38,West Nile,mosquito bite,mosquito,Virus,mosquito,zootonic,0,14,21.91069574,963,211
+39,Yellow fever,mosquito bite,mosquito,Virus,mosquito,zootonic,0,5,inf,407708,44000

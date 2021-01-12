@@ -1,0 +1,144 @@
+Year,Country,Disease,cfr,Cases,Death
+1996,Benin,Yellow fever,47.6744186,86,41
+1996,Gabon,Ebola,66.66666667,201,42
+1996,India,Dengue,38.06451613,930,354
+1996,Nigeria,Cholera,92.76190476,525,487
+1996,Sierra Leone,Lassa fever,5.691056911,246,14
+1997,Bolivia,Yellow fever,33.33333333,30,10
+1997,Gabon,Ebola,22.3880597,61,45
+1997,Malaysia,Myocarditis,23.00884956,113,26
+1997,Nepal,Encephalitis,90.28340081,247,223
+1997,Zambia,Plague,9.737827715,267,26
+1998,China,Enterovirus,20.29520295,271,55
+1998,France,Legionellosis,15.78947368,19,3
+1998,Kenya,Rift Valley fever,100,300,300
+1998,Malaysia,Dengue,0.255832992,19544,50
+1998,Zimbabwe,Cholera,1.299907149,5385,70
+1999,Comoros,Cholera,9.708737864,103,10
+1999,Congo,Acute haemorrhagic fever syndrome,92,50,46
+1999,Congo,Viral haemorrhagic fever,67.74193548,93,63
+1999,Malaysia,Encephalitis,34.39490446,157,54
+1999,South Africa,Rift Valley fever,33.33333333,3,1
+2000,Afghanistan,Acute haemorrhagic fever syndrome,75,27,16
+2000,Saudi Arabia,Rift Valley fever,17.15575621,443,76
+2000,Sudan,Meningococcal disease,35.88342441,549,197
+2000,Uganda,Ebola,11,426,165
+2001,Bangladesh,Acute neurological syndrome,32.14285714,28,9
+2001,Brazil,Yellow fever,12.5,48,6
+2001,Congo,Ebola,83.33333333,29,20
+2001,Gabon,Ebola,81.66666667,27,18
+2001,United States,Anthrax,21.73913043,23,5
+2002,Burkina Faso,Meningococcal disease,76.14991482,587,447
+2002,Congo,Ebola,89.51048951,60,50
+2002,Gabon,Ebola,81.66666667,60,49
+2002,Madagascar,Influenza,83.04455446,808,671
+2002,United States,West Nile,21.91069574,963,211
+2003,Burkina Faso,Meningococcal disease,55.30612245,980,542
+2003,Canada,SARS,15.07936508,252,38
+2003,Congo,Acute haemorrhagic fever syndrome,72.13114754,61,44
+2003,Congo,Ebola,89.51048951,143,128
+2003,"Hong Kong SAR, China",SARS,16.98005698,1755,298
+2003,Niger,Meningococcal disease,9.484435798,2056,195
+2003,Philippines,SARS,14.28571429,14,2
+2003,Singapore,SARS,15.53398058,206,32
+2003,Taiwan,SARS,8.940518185,8221,735
+2003,Thailand,SARS,22.22222222,9,2
+2004,China,Avian,66.66666667,21,14
+2004,China,SARS,9.675,8000,774
+2004,Congo,Ebola,61.70212766,35,25
+2004,Congo,Typhoid fever,19.25287356,615,134
+2004,Liberia,Yellow fever,20.51282051,39,8
+2004,Sudan,Ebola,23.33333333,30,7
+2004,Thailand,Avian,70.58823529,22,12
+2005,Angola,Marburg haemorrhagic fever,84.3971631205674,423,357
+2005,Congo,Ebola,91.66666667,12,11
+2005,Congo,Typhoid fever,19.25287356,696,0
+2005,Mali,Yellow fever,8.695652174,23,2
+2005,Philippines,Meningococcal disease,32.65306122,98,32
+2005,Sudan,Yellow fever,25.30973451,565,143
+2006,Angola,Cholera,6.183849471,30612,1893
+2006,Azerbaijan,Avian,83.33333333,8,5
+2006,China,Avian,68.75,21,14
+2006,Egypt,Avian,46.66666667,15,7
+2006,Indonesia,Avian,77.77777778,74,57
+2006,Sudan,Cholera,3.820645905,13872,530
+2006,Uganda,Meningococcal disease,7.364341085,258,19
+2007,Egypt,Avian,44.18604651,41,16
+2007,Indonesia,Avian,81.03448276,116,94
+2007,Kenya,Rift Valley fever,29.44038929,411,121
+2007,Sudan,Rift Valley fever,36.9266055,601,211
+2007,Uganda,Ebola,17.20430108,93,16
+2007,Viet Nam,Avian,80,101,47
+2008,Brazil,Dengue,11.75438596,570,67
+2008,China,Avian,66.66666667,30,20
+2008,Egypt,Avian,45.09803922,51,23
+2008,Indonesia,Avian,81.75182482,139,113
+2008,Sudan,Rift Valley fever,31.80515759,698,222
+2008,Zimbabwe,Cholera,5.728950447,26497,1518
+2009,Cambodia,Avian,77.78,9,7
+2009,China,Avian,65.78947368,38,25
+2009,Congo,Ebola,46.875,32,15
+2009,Egypt,Avian,41.81818182,90,27
+2009,Indonesia,Avian,81.56028369,141,115
+2009,Viet Nam,Avian,50.89285714,112,57
+2009,Zimbabwe,Cholera,65.09433962,79613,3731
+2010,Cambodia,Avian,80,10,8
+2010,China,Avian,66.66666667,39,26
+2010,Egypt,Avian,32.78688525,115,38
+2010,Haiti,Cholera,53.34190231,778,415
+2010,Indonesia,Avian,82.94117647,171,141
+2010,Viet Nam,Avian,50.42735043,119,59
+2011,Cambodia,Avian,84.62,53,11
+2011,Congo,Cholera,29.57589286,896,265
+2011,Egypt,Avian,34.66666667,156,54
+2011,Indonesia,Avian,82.48587571,182,150
+2011,Senegal,Yellow fever,100,10,10
+2012,China,Avian,65.85365854,41,27
+2012,Congo,Ebola,48.07692308,52,25
+2012,Ghana,Yellow fever,66.66666667,3,2
+2012,Indonesia,Avian,83.06878307,189,157
+2012,Sierra Leone,Cholera,38.04347826,18508,280
+2012,Uganda,Ebola,39.53488372,43,17
+2013,Cambodia,Avian,80,5,4
+2013,China,Avian,2.2,1000,22
+2013,China,Influenza,1.4,1000,14
+2014,Congo,Ebola,43.75,80,35
+2014,Guinea,Ebola,67.96116505,103,70
+2014,Madagascar,Plague,33.61344538,119,40
+2014,Qatar,MERS-CoV,36.04519774,885,319
+2014,Saudi Arabia,MERS-CoV,36.02714374,941,347
+2015,China,Avian,60,83,19
+2015,Jordan,MERS-CoV,36.82539683,1594,568
+2015,Korea,MERS-CoV,35.8974359,3000,574
+2015,Oman,MERS-CoV,37.57575758,1155,434
+2015,Qatar,MERS-CoV,37.16981132,1150,427
+2015,Saudi Arabia,MERS-CoV,36.02714374,1621,584
+2015,Thailand,MERS-CoV,35.74561404,1368,489
+2015,United Arab Emirates,MERS-CoV,36.74513818,1350,480
+2016,Angola,Yellow fever,10.9977685686962,3137,345
+2016,Benin,Lassa fever,51.85185185,71,28
+2016,China,Avian,57.14285714,806,11
+2016,Liberia,Lassa fever,23.68421053,38,9
+2016,Nigeria,Lassa fever,54.57875458,273,149
+2016,Saudi Arabia,MERS-CoV,36.23773803,1806,643
+2016,Thailand,MERS-CoV,35.94611145,1633,587
+2016,United Arab Emirates,MERS-CoV,35.96813725,1762,629
+2017,Brazil,Yellow fever,20.79207921,1336,215
+2017,Kenya,Cholera,22.78056951,3967,136
+2017,Madagascar,Plague,41.93548387,1791,202
+2017,Nigeria,Lassa fever,56.73076923,104,59
+2017,Saudi Arabia,MERS-CoV,34.72823473,2079,722
+2018,Brazil,Yellow fever,32.78008299,723,237
+2018,Congo,Ebola,65.64685315,706,357
+2018,India,Nipah virus,42.5,753,17
+2018,Korea,MERS-CoV,35.48243664,2249,798
+2018,Liberia,Lassa fever,50,30,15
+2018,Somalia,Cholera,71.85368878,1613,1159
+2019,Afghanistan,Dengue,7.142857143,14,1
+2019,Brazil,Yellow fever,35.10174419,1376,483
+2019,Congo,Ebola,65.64685315,3351,2217
+2019,Jamaica,Dengue,49.1862955,4670,2297
+2019,Nigeria,Lassa fever,22.01834862,327,72
+2019,Nigeria,Yellow fever,21.31147541,407708,26
+2019,Pakistan,Dengue,6.525891341,47120,3075
+2019,Sudan,Rift Valley fever,30.78982597,747,230

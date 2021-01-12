@@ -1,0 +1,41 @@
+Disease,Transmission_Medium,Host_for_Parasite,Pathogens,Host_for_Parasite,Source,Vaccination,Maximum_Incubation,cfr,Cases,Death
+Acute haemorrhagic fever syndrome,"person to person blood bodily fluids, person to person cough sneeze aerosol,  mosquito bite, person to person stools of infected person, contaminated food, contaminated water, livestock animal blood body fluids",not specific,"Virus, Bacteria",not specific,"zootonic, mosquito",0,7,inf,113,266
+Acute neurological syndrome,"person to person blood bodily fluids, person to person cough sneeze aerosol,  mosquito bite, person to person stools of infected person, contaminated food, contaminated water, livestock animal blood body fluids",not specific,Virus,not specific,"zootonic, mosquito",1,7,32.14285714,28,9
+Acute respiratory syndrome,person to person cough sneeze aerosol,"animal, livestock",Virus,"animal, livestock",zootonic,0,7,12.5,4000,500
+Anthrax,"contaminated food, contaminated water, contaminated animal products, spores in the air","livestock, soil, dust",Bacteria,"livestock, soil, dust",zootonic,1,30,21.73913043,23,5
+Avian,"person to person cough sneeze aerosol, contaminated food, contaminated water, infected birds, infected bird droppings, infected bird meat",birds,Virus,birds,birds,0,5,inf,1000,450000
+COVID-19,"person to person blood bodily fluids, person to person cough sneeze aerosol,  mosquito bite, person to person stools of infected person, contaminated food, contaminated water, livestock animal blood body fluids",non confirmed,Virus,non confirmed,zootonic,0,14,33.33333333,69176,6820
+Cholera,"contaminated water, contaminated food, person to person stools of infected person","water, stools, food",Bacteria,"water, stools, food",Human,0,5,inf,79613,3731
+Crimean-Congo haemorrhagic fever,"person to person blood bodily fluids, tick bite, infected livestock, livestock animal blood body fluids, contaminated animal products","ticks, livestock",Virus,"ticks, livestock","zootonic, ticks",0,6,100.0,242,20
+Dengue,mosquito bite,mosquito,Virus,mosquito,mosquito,1,12,49.1862955,1000000,3075
+Diphtheria,person to person cough sneeze aerosol,human,Bacteria,human,human,1,10,0.07486631,804,15
+Ebola,"person to person blood bodily fluids, person to person cough sneeze aerosol, person to person sexual contact",fruit bats,Virus,fruit bats,zootonic,0,21,inf,3432,2253
+Elizabethkingia,contaminated water,"river, soil, water bodies",Bacteria,"river, soil, water bodies",water bodies,0,39,0.31578947399999996,57,18
+Encephalitis,viral infection,various,Virus,various,various,1,12,90.28340081,772,223
+Enterovirus,"person to person blood bodily fluids, person to person stools of infected person",human,Virus,human,human,1,10,20.29520295,4496,55
+Haemorrhagic fever syndrome,"mosquito bite, tick bite","mosquito, ticks, livestock",Virus,"mosquito, ticks, livestock",zootonic,0,6,0.255863539,469,120
+Haemorrhagic fever with renal syndrome,rodent contamination,rodents,Virus,rodents,rodents,0,21,0.013623978,367,5
+Hantavirus pulmonary syndrome,rodent contamination,rodents,Virus,rodents,rodents,0,21,25.0,8,2
+Hepatitis,"person to person stools of infected person, person to person blood bodily fluids",human,Virus,human,human,1,45,0.577200577,6861,8
+Influenza,"person to person blood bodily fluids, person to person cough sneeze aerosol",human,Virus,human,human,1,2,83.04455446,1000,671
+Lassa fever,rodent contamination,rodents,Virus,rodents,rodents,0,21,56.73076923,1422,149
+Legionellosis,"contaminated water, water bodies","river, water bodies",Bacteria,"river, water bodies",water bodies,0,10,15.78947368,751,13
+Listeriosis,contaminated food,"raw meat, smoked fish",Bacteria,"raw meat, smoked fish",raw meats,0,30,0.078947368,38,3
+MERS-CoV,camels to humans,camel,Virus,camel,zootonic,0,10,66.0,3000,862
+Malaria,mosquito bite,mosquito,Parasite,mosquito,mosquito,1,15,0.45333333299999995,75,34
+Marburg haemorrhagic fever,"person to person blood bodily fluids, contact with surfaces contaminated by infected bats","bats, human",Virus,"bats, human",bats,0,21,inf,423,357
+Measles,"person to person blood bodily fluids, person to person cough sneeze aerosol",human,Virus,human,human,1,12,0.609375,7449,537
+Meningococcal disease,person to person cough sneeze aerosol,human,Bacteria,human,human,1,10,76.14991482,1000000,20000
+Microcephaly,"mosquito bite, others",mosquito,Virus,mosquito,zootonic,0,10,1.1972274729999999,3174,38
+Monkeypox,animal to human,mammals,Virus,mammals,zootonic,0,15,8.860759494,511,7
+Myocarditis,viral infection,not specific,"Virus, Bacteria",not specific,not specific,0,10,23.00884956,113,26
+Nipah virus,"person to person blood bodily fluids, person to person cough sneeze aerosol, contact with equipment used in patient care","pigs, livestock",Virus,"pigs, livestock",zootonic,0,14,42.5,753,18
+Plague,"person to person cough sneeze aerosol, bite of infected fleas","fleas, small mammals",Bacteria,"fleas, small mammals","fleas, small mammals",0,6,41.93548387,7000,202
+Polio,person to person,human,Virus,human,human,1,21,6.202723147,90000,41
+Rift Valley fever,mosquito bite,mosquito,Virus,mosquito,zootonic,0,6,100.0,20000,300
+SARS,person to person cough sneeze aerosol,"animal, livestock",Virus,"animal, livestock",zootonic,0,7,100.0,8221,774
+Seoul virus,rodent contamination,rodents,Virus,rodents,rodents,0,42,0.181818182,11,2
+Typhoid fever,person to person cough sneeze aerosol,human,Bacteria,human,zootonic,0,14,19.25287356,910,134
+Viral haemorrhagic fever,mosquito bite,mosquito,Virus,mosquito,zootonic,0,6,inf,93,63
+West Nile,mosquito bite,mosquito,Virus,mosquito,zootonic,0,14,21.91069574,963,211
+Yellow fever,mosquito bite,mosquito,Virus,mosquito,zootonic,0,5,inf,407708,44000
